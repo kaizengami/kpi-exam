@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.dbcd9ca9.chunk.js",
-    "main.js.map": "/static/js/main.dbcd9ca9.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.111e55fc.js",
-    "runtime~main.js.map": "/static/js/runtime~main.111e55fc.js.map",
-    "static/js/2.e2f2d759.chunk.js": "/static/js/2.e2f2d759.chunk.js",
-    "static/js/2.e2f2d759.chunk.js.map": "/static/js/2.e2f2d759.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.dd07d083bf453a5d740e429ad64138ac.js": "/precache-manifest.dd07d083bf453a5d740e429ad64138ac.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/kpi-exam/build/static/js/main.52ab4d50.chunk.js",
+    "main.js.map": "/kpi-exam/build/static/js/main.52ab4d50.chunk.js.map",
+    "runtime~main.js": "/kpi-exam/build/static/js/runtime~main.79c57a4f.js",
+    "runtime~main.js.map": "/kpi-exam/build/static/js/runtime~main.79c57a4f.js.map",
+    "static/js/2.e6960d31.chunk.js": "/kpi-exam/build/static/js/2.e6960d31.chunk.js",
+    "static/js/2.e6960d31.chunk.js.map": "/kpi-exam/build/static/js/2.e6960d31.chunk.js.map",
+    "index.html": "/kpi-exam/build/index.html",
+    "precache-manifest.64ce31ab129763dba93a4cf70de0d831.js": "/kpi-exam/build/precache-manifest.64ce31ab129763dba93a4cf70de0d831.js",
+    "service-worker.js": "/kpi-exam/build/service-worker.js"
   }
 }

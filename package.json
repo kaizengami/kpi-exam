@@ -18,7 +18,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "master -d build"
   },
   "homepage": "https://kaizengami.github.io/kpi-exam/build",
   "eslintConfig": {
@@ -38,6 +39,7 @@
   },
   "devDependencies": {
     "eslint-plugin-prettier": "^3.1.0",
+    "master": "0.0.9",
     "prettier": "1.18.2"
   }
 }
