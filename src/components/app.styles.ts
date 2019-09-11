@@ -60,9 +60,21 @@ export const AppWrapper = styled.div`
 export const AnswersWrappe = styled.div`
   font-size: 16px;
   div {
-    border: 1px solid #00000068;
+    border: none;
     padding: 10px 5px;
     margin: 10px 0;
+
+    padding: 20px 20px;
+    border-bottom: 2px solid #00000028;
+    border-radius: 3px;
+    color: #000000d9;
+    text-decoration: none;
+    background-color: #f6fdff;
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  h3 {
+    letter-spacing: 0.5px;
   }
 `;
 
@@ -72,24 +84,37 @@ export const QuestionsWrappe = styled.div`
   a {
     padding: 20px 20px;
     border-bottom: 2px solid #00000028;
-    border-radius: 5px;
+    border-radius: 3px;
     color: #000000d9;
     text-decoration: none;
     background-color: #f1f1f1;
     margin: 10px 10px;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+  a:active {
+    box-shadow: none;
+  }
+  span {
+    font-weight: 700;
+    letter-spacing: 0.5px;
+  }
 `;
 
 export const UpButton = styled.a`
   position: fixed;
   bottom: 0;
-  right: 0;
-  padding: 10px 10px;
+  /* right: 0; */
+  width: 100%;
+  padding: 5px 0px;
+  color: #000000;
+  margin-left: -7px;
   font-size: 20px;
+  text-align: right;
   border: none;
   text-decoration: none;
   opacity: 0.3;
   border-radius: 5px;
-  background-color: #def9ff;
+  background-color: #839396;
+  box-shadow: 2px;
+  box-shadow: 0px -1px 20px -4px rgba(24, 47, 51, 1);
 `;

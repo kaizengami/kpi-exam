@@ -149,7 +149,7 @@ const Questions: React.FC = (): JSX.Element => {
         .filter(q => q.trim() !== '')
         .map((question, i) => (
           <a href={`#${i + 1}`.toString()} key={i}>
-            {i + 1}. {question}
+            <span>{i + 1}.</span> {question}
           </a>
         ))}
     </QuestionsWrappe>

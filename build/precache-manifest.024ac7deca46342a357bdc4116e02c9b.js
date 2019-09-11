@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6545899c89ce5dfc3eaf92f2ab63be57",
+    "revision": "259e76971ea956dfaab1751f56677178",
     "url": "/kpi-exam/build/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kpi-exam/build/static/js/2.e6960d31.chunk.js"
   },
   {
-    "revision": "3756b35b4cc9d4a6443c",
-    "url": "/kpi-exam/build/static/js/main.52ab4d50.chunk.js"
+    "revision": "9370450ef39c5b89458c",
+    "url": "/kpi-exam/build/static/js/main.db1db442.chunk.js"
   },
   {
     "revision": "a740591d793484fe1fca",
