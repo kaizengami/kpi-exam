@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/kpi-exam/build/static/js/main.db1db442.chunk.js",
-    "main.js.map": "/kpi-exam/build/static/js/main.db1db442.chunk.js.map",
+    "main.js": "/kpi-exam/build/static/js/main.7c313281.chunk.js",
+    "main.js.map": "/kpi-exam/build/static/js/main.7c313281.chunk.js.map",
     "runtime~main.js": "/kpi-exam/build/static/js/runtime~main.79c57a4f.js",
     "runtime~main.js.map": "/kpi-exam/build/static/js/runtime~main.79c57a4f.js.map",
     "static/js/2.e6960d31.chunk.js": "/kpi-exam/build/static/js/2.e6960d31.chunk.js",
     "static/js/2.e6960d31.chunk.js.map": "/kpi-exam/build/static/js/2.e6960d31.chunk.js.map",
     "index.html": "/kpi-exam/build/index.html",
-    "precache-manifest.024ac7deca46342a357bdc4116e02c9b.js": "/kpi-exam/build/precache-manifest.024ac7deca46342a357bdc4116e02c9b.js",
+    "precache-manifest.266d72596d276f18a1ad07c9334bd2dc.js": "/kpi-exam/build/precache-manifest.266d72596d276f18a1ad07c9334bd2dc.js",
     "service-worker.js": "/kpi-exam/build/service-worker.js"
   }
 }
